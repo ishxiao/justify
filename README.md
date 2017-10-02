@@ -25,7 +25,7 @@ justify/
 
 ## Contributing
 
-If you wish to contribute to this website, please [fork it on GitHub](https://github.com/ishxiao/justify), push your
+If you wish to contribute to this app, please [fork it on GitHub](https://github.com/ishxiao/justify), push your
 change to a named branch, then send a pull request. If it is a big feature,
 you might want to start an Issue first to make sure it's something that will
 be accepted.  If it involves code, please also write tests for it.
