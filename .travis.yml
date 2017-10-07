@@ -11,4 +11,5 @@ before_install:
 script:
   - make
 #
-# after_success:
+after_success:
+  - ./justify ./test/quote.txt ./test/new_quote.txt
