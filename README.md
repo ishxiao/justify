@@ -29,11 +29,11 @@ Preview
 
 *before justify*
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/quote.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/quote.png" /><img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/quote-vim.png" />
 
 *after justify*
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/new_quote.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/new_quote.png" /><img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/new_quote-vim.png" />
 
 What's included
 ---------------
