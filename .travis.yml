@@ -1,7 +1,8 @@
 # Enable C support
 language: c
 # Compiler
-compiler: gcc
+compiler:
+  - gcc
 # Build Script
 script:
-  -cd ./justify && make
+  - make
