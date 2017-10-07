@@ -1,5 +1,4 @@
-# Project: justify
-# Makefile created by Dev-C++ 5.11
+# poject: justify
 
 TARGET = justify
 LIBS = -lm
