@@ -3,7 +3,12 @@ language: c
 # Compiler
 compiler:
   - gcc
-before_install: cd justify
+# 
+before_install:
+  - cd justify
+# brefore_script: cd ${TRAVIS_BUILD_DIR}/justify
 # Build Script
 script:
   - make
+#
+# after_success:
