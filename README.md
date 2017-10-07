@@ -33,7 +33,7 @@ Preview
 
 *after justify*
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/images/new_quote.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/new_quote.png" />
 
 What's included
 ---------------
