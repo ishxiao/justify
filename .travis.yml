@@ -2,9 +2,8 @@
 language: c
 # Compiler selection
 compiler:
-  - clang
   - gcc
 # Build steps
 script:
-  - cd justify
-  - cmake .. && make
+  - cd ishxiao/justify/justify
+  - make
