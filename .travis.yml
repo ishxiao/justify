@@ -3,6 +3,14 @@ language: c
 # Compiler selection
 compiler:
   - gcc
+# Change dir
+before_script:
+  - ls
+  - mkdir justify_testing
+  - cd justify_testing
+  - ls
+  - cd ..
+# Command to run tests
 # Build steps
 script:
   - cd ishxiao/justify/justify
