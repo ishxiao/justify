@@ -9,28 +9,52 @@ Build status and test coverage
 ------------------------------
 
 [![build-status](https://travis-ci.org/ishxiao/justify.svg?branch=master)](http://travis-ci.org/ishxiao/justify)
-[![Coverage Status](https://img.shields.io/coveralls/ishxiao/justify.svg)](https://coveralls.io/r/qutip/qutip)
+[![Coverage Status](https://img.shields.io/coveralls/ishxiao/justify.svg)](https://coveralls.io/r/ishxiao/justify)
 
-## Quick start
+Quick start
+-----------
 
-Run with cmd:
+*Run with cmd:*
 
-`justify .\test\quote.txt .\test\new_quote.txt`
+```
+git clone git@github.com:ishxiao/justify.git
+cd justify/justify
+make
+./justify ./test/quote.txt ./test/new_quote.txt
 
-## What's included
+```
+
+Preview
+-------
+
+*before justify*
+
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/quote.png" />
+
+*after justify*
+
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/images/new_quote.png" />
+
+What's included
+---------------
 
 ```
 justify/
 ├── justify/
+│   ├── test/
+│   │   ├── new_quote.txt (after justify)
+│   │   └── quote.txt
+│   ├── justify (after make)
 │   ├── justify.c
 │   ├── line.c
 │   ├── line.h
+│   ├── makefile
 │   ├── word.c
 │   └── word.h
-├── test/
-│   ├── quote.txt
-│   └── new_quote.txt
-└── justify.exe
+├── .gitignore
+├── .travis.yml
+├── LICENSE
+└── README.md
 ```
 
 ## Contributing
