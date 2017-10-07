@@ -5,6 +5,12 @@ justify
 
 Formats a file of text
 
+Build status and test coverage
+------------------------------
+
+[![build-status](https://travis-ci.org/ishxiao/justify.svg?branch=master)](http://travis-ci.org/ishxiao/justify)
+[![Coverage Status](https://img.shields.io/coveralls/ishxiao/justify.svg)](https://coveralls.io/r/qutip/qutip)
+
 ## Quick start
 
 Run with cmd:
