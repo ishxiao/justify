@@ -4,4 +4,4 @@ language: c
 compiler: gcc
 # Build Script
 script:
-  -./justify && make
+  -cd ./justify && make
