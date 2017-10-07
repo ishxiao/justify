@@ -3,4 +3,5 @@ language: c
 # Compiler
 compiler: gcc
 # Build Script
-./configure && make
+script:
+  -./justify && make
