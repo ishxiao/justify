@@ -3,6 +3,7 @@ language: c
 # Compiler
 compiler:
   - gcc
+before_install: cd justify
 # Build Script
 script:
   - make
