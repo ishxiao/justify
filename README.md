@@ -5,14 +5,12 @@ justify
 
 [![Author](https://img.shields.io/badge/Author-ishxiao-blue.svg "Author")](https://github.com/ishxiao "Author")
 
-
-
 Formats a file of text
 
 Build status and test coverage
 ------------------------------
 
-[![Build Status](https://github.com/ishxiao/justify/workflows/c-cpp/badge.svg)](https://github.com/ishxiao/justify/actions?query=workflow%3Ac-cpp)
+[![Build Status](https://github.com/ishxiao/justify/workflows/Build/badge.svg)](https://github.com/ishxiao/justify/actions?query=workflow%3ABuild)
 
 Quick start
 -----------
