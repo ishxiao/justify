@@ -3,13 +3,16 @@ justify
 
 [Xiao Shang](http://github.com/ishxiao)
 
+[![Author](https://img.shields.io/badge/Author-ishxiao-blue.svg "Author")](https://github.com/ishxiao "Author")
+
+
+
 Formats a file of text
 
 Build status and test coverage
 ------------------------------
 
-[![build-status](https://travis-ci.org/ishxiao/justify.svg?branch=master)](http://travis-ci.org/ishxiao/justify)
-[![Coverage Status](https://img.shields.io/coveralls/ishxiao/justify.svg)](https://coveralls.io/r/ishxiao/justify)
+[![Build Status](https://github.com/ishxiao/justify/workflows/c-cpp/badge.svg)](https://github.com/ishxiao/justify/actions?query=workflow%3Ac-cpp)
 
 Quick start
 -----------
