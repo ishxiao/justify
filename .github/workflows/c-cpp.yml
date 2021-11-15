@@ -15,6 +15,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Test
       run: |
-        cd justify/justify
+        cd justify
         make
         ./justify ./test/quote.txt ./test/new_quote.txt
