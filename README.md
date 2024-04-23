@@ -49,21 +49,26 @@ What's included
 
 ```
 justify/
-├── justify/
-│   ├── test/
-│   │   ├── new_quote.txt (after justify)
-│   │   └── quote.txt
-│   ├── justify (after make)
-│   ├── justify.c
-│   ├── line.c
-│   ├── line.h
-│   ├── makefile
-│   ├── word.c
-│   └── word.h
-├── .gitignore
-├── .travis.yml
 ├── LICENSE
-└── README.md
+├── README.md
+├── justify
+│     ├── justify
+│     ├── justify.c
+│     ├── line.c
+│     ├── line.h
+│     ├── makefile
+│     ├── test
+│     │     ├── new_quote.txt
+│     │     └── quote.txt
+│     ├── word.c
+│     └── word.h
+└── res
+    ├── new_quote-vim.png
+    ├── new_quote.png
+    ├── quote-vim.png
+    └── quote.png
+
+4 directories, 15 files
 ```
 
 ## Contributing
