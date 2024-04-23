@@ -10,7 +10,7 @@ Formats a file of text
 Build status and test coverage
 ------------------------------
 
-[![Build Status](https://github.com/ishxiao/justify/workflows/Build/badge.svg)](https://github.com/ishxiao/justify/actions?query=workflow%3ABuild)
+[![Build](https://github.com/ishxiao/justify/actions/workflows/Build.yml/badge.svg)](https://github.com/ishxiao/justify/actions/workflows/Build.yml)
 
 Quick start
 -----------
@@ -30,19 +30,19 @@ Preview
 
 *before justify*
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/quote.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/main/res/quote.png" />
 
 or
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/quote-vim.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/main/res/quote-vim.png" />
 
 *after justify*
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/new_quote.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/main/res/new_quote.png" />
 
 or
 
-<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/master/res/new_quote-vim.png" />
+<img alt="image" style="border-width:0" src="https://github.com/ishxiao/justify/blob/main/res/new_quote-vim.png" />
 
 What's included
 ---------------
